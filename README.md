@@ -1,16 +1,75 @@
-## Hi there 👋
 
-<!--
-**Himanshu6567/Himanshu6567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header image -->
+<img src="https://raw.githubusercontent.com/himanshuchandola/himanshuchandola/main/banner.png" alt="Himanshu Chandola Banner" width="100%" />
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Himanshu Chandola</h1>
+<h3 align="center">A passionate Full Stack Developer (MERN) from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **Neighborhood Services Finder – a real-time MERN web app**
+- 🌱 I’m currently learning **Next.js and WebSocket (Socket.IO)**
+- 👯 I’m looking to collaborate on **open-source React.js or MERN stack projects**
+- 🤔 I’m looking for help with **making large-scale apps production ready**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, APIs**
+- 📫 How to reach me: **himanshuchandola.dev@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love building things more than talking about them 😄**
+
+---
+
+## 💻 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshuchandola&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuchandola&layout=compact&theme=tokyonight" height="170px"/>
+</p>
+
+---
+
+## 📌 Pinned Repositories
+
+[![The Cinema Hub](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchandola&repo=cinema-hub&theme=tokyonight)](https://github.com/himanshuchandola/cinema-hub)
+[![CryptoWorld](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchandola&repo=crypto-world&theme=tokyonight)](https://github.com/himanshuchandola/crypto-world)
+[![Recipe Sharing App](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchandola&repo=recipe-sharing&theme=tokyonight)](https://github.com/himanshuchandola/recipe-sharing)
+[![AI ChatBot](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchandola&repo=ai-chatbot&theme=tokyonight)](https://github.com/himanshuchandola/ai-chatbot)
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/himanshuchandola" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:himanshuchandola.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/himanshuchandola">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=firefox-browser">
+  </a>
+</p>
+
+---
+
+⭐️ Thank you for visiting my profile!
