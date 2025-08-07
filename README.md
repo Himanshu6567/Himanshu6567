@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **open-source React.js or MERN stack projects**
 - 🤔 I’m looking for help with **making large-scale apps production ready**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, APIs**
-- 📫 How to reach me: **himanshuchandola.dev@gmail.com**
+- 📫 How to reach me: **himanshuchandola.48@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love building things more than talking about them 😄**
 
@@ -38,34 +38,34 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuchandola&show_icons=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuchandola&layout=compact&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu6567&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu6567&layout=compact&theme=tokyonight" height="170px"/>
 </p>
 
 ---
 
 ## 📌 Pinned Repositories
 
-[![The Cinema Hub](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchandola&repo=cinema-hub&theme=tokyonight)](https://github.com/himanshuchandola/cinema-hub)
-[![CryptoWorld](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchandola&repo=crypto-world&theme=tokyonight)](https://github.com/himanshuchandola/crypto-world)
-[![Recipe Sharing App](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchandola&repo=recipe-sharing&theme=tokyonight)](https://github.com/himanshuchandola/recipe-sharing)
-[![AI ChatBot](https://github-readme-stats.vercel.app/api/pin/?username=himanshuchandola&repo=ai-chatbot&theme=tokyonight)](https://github.com/himanshuchandola/ai-chatbot)
+[![The Cinema Hub](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu6567&repo=cinema-hub&theme=tokyonight)](https://github.com/himanshuchandola/cinema-hub)
+[![CryptoWorld](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu6567&repo=crypto-world&theme=tokyonight)](https://github.com/himanshuchandola/crypto-world)
+[![Recipe Sharing App](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu6567&repo=recipe-sharing&theme=tokyonight)](https://github.com/himanshuchandola/recipe-sharing)
+[![AI ChatBot](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu6567&repo=ai-chatbot&theme=tokyonight)](https://github.com/himanshuchandola/ai-chatbot)
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/himanshuchandola" target="_blank">
+  <a href="[https://linkedin.com/in/himanshuchandola](https://www.linkedin.com/in/himanshu-chandola-361a6924b/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:himanshuchandola.dev@gmail.com">
+  <a href="mailto:himanshuchandola48@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/himanshuchandola">
+  <a href="[https://github.com/himanshuchandola](https://github.com/Himanshu6567)">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github">
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="[https://yourportfolio.com](https://himanshu-chandola-portfolio.netlify.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=firefox-browser">
   </a>
 </p>
