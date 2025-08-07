@@ -1,6 +1,6 @@
 
 <!-- Header image -->
-<img src="https://raw.githubusercontent.com/himanshuchandola/himanshuchandola/main/banner.png" alt="Himanshu Chandola Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/Himanshu6567/Himanshu6567/main/banner.png" alt="Himanshu Chandola Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Himanshu Chandola</h1>
 <h3 align="center">A passionate Full Stack Developer (MERN) from India 🇮🇳</h3>
