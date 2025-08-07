@@ -8,17 +8,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **an AI-powered Chrome Extension that analyzes your search history and recommends personalized articles**
-- 🌱 I’m currently learning **Next.js and WebSocket (Socket.IO)**
+- 🔭 I’m currently working on **an AI-powered Chrome Extension**
+- 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **open-source React.js or MERN stack projects**
 - 🤔 I’m looking for help with **making large-scale apps production ready**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, APIs**
 - 📫 How to reach me: **himanshuchandola48@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love building things more than talking about them 😄**
-
----
-
 
 ---
 
@@ -125,11 +122,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Himanshu6567&show_icons=true&theme=tokyonight" height="170px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu6567&layout=compact&theme=tokyonight" height="170px"/>
 </p>
-
----
-
-## 📌 Pinned Repositories
-
 
 ---
 
