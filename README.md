@@ -46,10 +46,10 @@
 
 ## 📌 Pinned Repositories
 
-[![The Cinema Hub](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu6567&repo=cinema-hub&theme=tokyonight)](https://github.com/himanshuchandola/cinema-hub)
-[![CryptoWorld](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu6567&repo=crypto-world&theme=tokyonight)](https://github.com/himanshuchandola/crypto-world)
-[![Recipe Sharing App](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu6567&repo=recipe-sharing&theme=tokyonight)](https://github.com/himanshuchandola/recipe-sharing)
-[![AI ChatBot](https://github-readme-stats.vercel.app/api/pin/?username=Himanshu6567&repo=ai-chatbot&theme=tokyonight)](https://github.com/himanshuchandola/ai-chatbot)
+[![The Cinema Hub]([https://github-readme-stats.vercel.app/api/pin/?username=Himanshu6567&repo=cinema-hub&theme=tokyonight)](https://github.com/himanshuchandola/cinema-hub](https://github.com/Himanshu6567/The_Cinema_Hub))
+[![CryptoWorld]([https://github-readme-stats.vercel.app/api/pin/?username=Himanshu6567&repo=crypto-world&theme=tokyonight)](https://github.com/himanshuchandola/crypto-world](https://github.com/Himanshu6567/The-CryptoWorld-Digital-currency-market))
+[![Recipe Sharing App]([https://github-readme-stats.vercel.app/api/pin/?username=Himanshu6567&repo=recipe-sharing&theme=tokyonight)](https://github.com/himanshuchandola/recipe-sharing](https://github.com/Himanshu6567/Food-recepie-sharing-plateform))
+[![AI ChatBot]([https://github-readme-stats.vercel.app/api/pin/?username=Himanshu6567&repo=ai-chatbot&theme=tokyonight)](https://github.com/himanshuchandola/ai-chatbot](https://github.com/Himanshu6567/chat-Frontend))
 
 ---
 
