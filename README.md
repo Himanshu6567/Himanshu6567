@@ -116,7 +116,7 @@
 
 
 
-## 🔥 GitHub Stats
+## 📊 Most Used Languages on GitHub
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Himanshu6567&show_icons=true&theme=tokyonight" height="170px"/> -->
