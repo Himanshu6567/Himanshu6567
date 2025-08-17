@@ -1,147 +1,208 @@
-<!-- Header image -->
+# Hi there! 👋 I'm Himanshu Chandola
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;AI+%26+ML+Explorer;Always+Learning+New+Tech!" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Himanshu Chandola</h1>
-<h3 align="center">A passionate Full Stack MERN Developer from India 🇮🇳</h3>
-
----
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **an AI-powered Chrome Extension**
-- 🌱 I’m currently learning **Next.js**
-- 👯 I’m looking to collaborate on **open-source React.js or MERN stack projects**
-- 🤔 I’m looking for help with **making large-scale apps production ready**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, APIs**
-- 📫 How to reach me: **himanshuchandola48@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love building things more than talking about them 😄**
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://himanshu-chandola-portfolio.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-chandola-361a6924b/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshu6567)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshuchandola48@gmail.com)
+  
+</div>
 
 ---
 
-## __Skills__
+## 🚀 About Me
 
-<h4 align="left">Frontend Development:</h4>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none; display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right: 10px; text-decoration: none; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
+> *"Building digital solutions that make a difference"*
 
-
-<h4 align="left">Programming Languages:</h4>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-</p>
-
-<h4 align="left">Backend Development:</h4>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-</p>
-
-<h4 align="left">Mobile App Development:</h4>
-<p align="left">
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-</p>
-
-<h4 align="left">Database:</h4>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-</p>
-
-<h4 align="left">Data Visualization:</h4>
-<p align="left">
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-</p>
-
-<h4 align="left">Software:</h4>
-<p align="left">
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
-
-<h4 align="left">Other:</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
-
-
-
-## 📊 Most Used Languages on GitHub
-
-<p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Himanshu6567&show_icons=true&theme=tokyonight" height="170px"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu6567&layout=compact&theme=tokyonight" height="170px"/>
-</p>
+- 🔭 Currently working as a **Full Stack Developer** at **Rekruters**
+- 🌱 Building a **proctored testing platform** with advanced monitoring capabilities
+- 💡 Passionate about **MERN Stack**, **AI Integration**, and **Chrome Extensions**
+- 🎯 Always exploring new technologies and solving real-world problems
+- 📍 Based in **Gharroli, Delhi, India**
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Tech Arsenal
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/himanshu-chandola-361a6924b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:himanshuchandola.48@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/Himanshu6567" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://himanshu-chandola-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=firefox-browser">
-  </a>
-</p>
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-⭐️ Thank you for visiting my profile!
+## 💼 Professional Experience
+
+### 🏢 Full Stack Developer @ Rekruters
+**April 2025 - Present**
+
+- 🔧 Building a comprehensive **online proctored testing platform**
+- 🎯 Implementing **dynamic test generation** and **role-based access control**
+- 👁️ Developing **proctoring capabilities** (camera monitoring, screen recording, cheating detection)
+- 🚀 Creating **modular REST APIs** with dynamic schema support
+- 🔄 Working in an **agile development environment**
+
+### 💙 Software Developer Intern @ IBM
+**March 2024 - May 2024**
+
+- 🛠️ Contributed to **enterprise software development** using modern technologies
+- 📊 Worked on **data processing** and **API integration** projects
+- 🤝 Collaborated with cross-functional teams in an **enterprise environment**
+- 📈 Gained experience in **scalable software architecture** and **best practices**
+- 🎓 Enhanced skills in **software development lifecycle** and **agile methodologies**
+
+---
+
+## 🌟 Featured Projects
+
+### 🔍 [Chrome Extension - Personalized News](https://github.com/Himanshu6567/google-chrome-extention-Discover-Personalized-News-)
+**React.js | HTML | Tailwind CSS | News.org API**
+
+*Intelligent news recommendations based on your search history*
+
+**Key Features:**
+- Analyzes Google Search history for personalized content
+- Dynamic content filtering and categorization
+- Intuitive search functionality for topic exploration
+
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshu6567/google-chrome-extention-Discover-Personalized-News-)
+
+---
+
+### 💰 [Cryptocurrency Dashboard](https://github.com/Himanshu6567/The-CryptoWorld-Digital-currency-market)
+**MERN Stack | Chaingo API | Chart Visualizations**
+
+*Comprehensive crypto information platform with 10,000+ cryptocurrencies*
+
+**Key Features:**
+- Real-time price updates and market data
+- Interactive charts (Candlestick, Line, Bar, OHLC)
+- Advanced filtering, sorting, and pagination
+- Mobile-responsive design
+
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshu6567/The-CryptoWorld-Digital-currency-market)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://crypto-world-main98.netlify.app/)
+
+---
+
+### 🏘️ [UrbanAssist - Service Finder](https://github.com/Himanshu6567/UrbanAssist-Neighborhood-Services-Finder)
+**MERN Stack | Google Maps API | Socket.IO | JWT**
+
+*Connect with local service providers based on real-time location*
+
+**Key Features:**
+- Distance-based filtering (10km, 15km, 30km)
+- Reviews and ratings system
+- Real-time updates and email notifications
+- Optimized route planning for providers
+
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshu6567/UrbanAssist-Neighborhood-Services-Finder)
+
+---
+
+### 🤖 [AI ChatBot Assistant](https://github.com/Himanshu6567/Himanshu6567-AI-ChatBot-Smart-Conversational-Assistant)
+**MERN Stack | OpenAI GPT API | JWT Authentication**
+
+*Intelligent conversational AI with secure backend integration*
+
+**Key Features:**
+- Natural language processing with GPT API
+- Secure API key protection
+- Token-based authentication
+- Environment-based configuration
+
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshu6567/Himanshu6567-AI-ChatBot-Smart-Conversational-Assistant)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://chatbot-main-ai.netlify.app/signin)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Himanshu6567&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu6567&layout=compact&theme=tokyonight&hide=html,css"/>
+  
+</div>
+
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himanshu6567&theme=tokyonight)](https://git.io/streak-stats)
+  
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  [![Himanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Himanshu6567&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const himanshu = {
+  currentWork: "Building proctored testing platform at Rekruters",
+  learning: ["Advanced React Patterns", "System Design", "DevOps"],
+  interests: ["AI/ML", "Web3", "Cybersecurity"],
+  goals: ["Master microservices", "Contribute to open source", "Build SaaS products"],
+  funFact: "I love turning complex problems into simple, elegant solutions! ✨"
+};
+```
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+  💬 **Open to collaborations, freelance projects, and exciting opportunities!**
+  
+  📫 **Reach out:** himanshuchandola48@gmail.com
+  
+  🌐 **Portfolio:** [himanshu-chandola-portfolio.netlify.app](https://himanshu-chandola-portfolio.netlify.app/)
+  
+  ---
+  
+  <img src="https://komarev.com/ghpvc/?username=Himanshu6567&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
+  ⭐️ **From [Himanshu Chandola](https://github.com/Himanshu6567)** - *Building the future, one commit at a time!*
+  
+</div>
