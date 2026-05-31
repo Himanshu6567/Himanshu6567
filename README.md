@@ -19,11 +19,11 @@
 
 > *"Building digital solutions that make a difference"*
 
-- 🔭 Currently working as a **Full Stack Developer** at **Rekruters**
+- 🔭 Currently working as a **Full Stack Developer** 
 - 🌱 Building a **proctored testing platform** with advanced monitoring capabilities
 - 💡 Passionate about **MERN Stack**, **AI Integration**, and **Chrome Extensions**
 - 🎯 Always exploring new technologies and solving real-world problems
-- 📍 Based in **Gharroli, Delhi, India**
+
 
 ---
 
@@ -65,7 +65,7 @@
 
 ## 💼 Professional Experience
 
-### 🏢 Full Stack Developer @ Rekruters
+### 🏢 Full Stack Developer @Rekruters
 **April 2025 - Present**
 
 - 🔧 Building a comprehensive **online proctored testing platform**
@@ -74,7 +74,7 @@
 - 🚀 Creating **modular REST APIs** with dynamic schema support
 - 🔄 Working in an **agile development environment**
 
-### 💙 Software Developer Intern @ IBM
+### 💙 Software Developer Intern @IBM
 **March 2024 - May 2024**
 
 - 🛠️ Contributed to **enterprise software development** using modern technologies
