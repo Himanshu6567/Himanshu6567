@@ -66,7 +66,7 @@
 ## 💼 Professional Experience
 
 ### 🏢 Full Stack Developer @Rekruters
-**April 2025 - Present**
+**Jan 2025 - Present**
 
 - 🔧 Building a comprehensive **online proctored testing platform**
 - 🎯 Implementing **dynamic test generation** and **role-based access control**
