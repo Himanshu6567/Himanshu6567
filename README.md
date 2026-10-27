@@ -63,27 +63,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 Full Stack Developer @Rekruters
-**Jan 2025 - Present**
-
-- 🔧 Building a comprehensive **online proctored testing platform**
-- 🎯 Implementing **dynamic test generation** and **role-based access control**
-- 👁️ Developing **proctoring capabilities** (camera monitoring, screen recording, cheating detection)
-- 🚀 Creating **modular REST APIs** with dynamic schema support
-- 🔄 Working in an **agile development environment**
-
-### 💙 Software Developer Intern @IBM
-**March 2024 - May 2024**
-
-- 🛠️ Contributed to **enterprise software development** using modern technologies
-- 📊 Worked on **data processing** and **API integration** projects
-- 🤝 Collaborated with cross-functional teams in an **enterprise environment**
-- 📈 Gained experience in **scalable software architecture** and **best practices**
-- 🎓 Enhanced skills in **software development lifecycle** and **agile methodologies**
-
----
 
 ## 🌟 Featured Projects
 
